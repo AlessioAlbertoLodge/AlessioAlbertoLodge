@@ -10,7 +10,7 @@ The source code is avaiable upon request :earth_africa:
 
 My thesis presentation is avaiable @[[Pitch]](https://pitch.com/public/f61e33d8-1976-467c-8535-2ff273842ac0)
 
-A preview of the thesis report is avaiable here @[[Report]](https://drive.google.com/file/d/1Ujdg6isePu68VRCh76Z06_-Kyk9FjrdY/view?usp=drive_link)
+A preview of the thesis report is avaiable here @[[Report]](https://drive.google.com/file/d/1Ujdg6isePu68VRCh76Z06_-Kyk9FjrdY/view?usp=sharing)
 
 ## Master Thesis: "Development of an Evaluation and Prediction Model for Offshore Wind Farms: Performance and Climate Change Impacts"
 :zap: My thesis is a testament to my commitment to expediting renewable energy capacity deployment. Through the website, one can evaluate the competitiveness of an offshore wind farm based simply on the chosen type of turbine and its geographical positioning, which will directly influence the attractiveness of the farm. 
