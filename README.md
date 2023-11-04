@@ -30,8 +30,7 @@ The source code is avaiable upon request :earth_africa:
 - **Time Series (Weather) Forecasting**: Having to predict the future and coordinate specific wind resources, I learnt about statistical and ML time series forecasting.
 
 
-
-- ## 🎓 Learning Outcomes
+## 🎓 Learning Outcomes
 - **Overview of Worldwide Renewable Energy Targets and Net-Zero Trajectories**: This work was motivated by the global need to transition to clean energy. In the world of IRENA, "Renewables are the backbone of any energy transition to achieve net zero". To showcase the importance of this work, an initial context was provided presenting the current climate pledges, renewable capacity targets and Net Zero Trajectories.
 - **Strong understanding of Offshore Wind Technology, Policies and Trends**: Naturally, this project brought me to understand the working principles of wind turbines, wind turbine and farm technology, the current offshore wind sector practices and future trends.
 
@@ -41,7 +40,8 @@ The source code is avaiable upon request :earth_africa:
 - **Algorithms for Optimization**:
 
 ## :cupid: Great Books
-- **Algorithms for Optimization**: Mykel J. Kochenderfer 
+- **Algorithms for Optimization**: Mykel J. Kochenderfer
+- **Modern Time Series Forecasting with Pythonn**: Manu Joseph 
 
 
 ## 🌱 I’m currently exploring
