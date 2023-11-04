@@ -2,7 +2,7 @@
 
 # Hey there! 🌬️👋
 
-I'm Alessio, a wind energy enthusiast and recent graduate from Imperial College London. I hold a Master’s degree in Advanced Mechanical Eningeering where I had the pleasure to develop a pioneering web/based and open-source offshore wind farm modelling software for my thesis project.
+I'm Alessio, a clean energy enthusiast and recent graduate from Imperial College London. I hold a Master’s degree in Advanced Mechanical Eningeering where I had the pleasure to develop a pioneering web/based and open-source offshore wind farm modelling software for my thesis project.
 
 The tool is avaiable here: https://aal22.pythonanywhere.com/
 
