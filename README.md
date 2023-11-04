@@ -1,14 +1,16 @@
-<img align="right" width="400" src="https://londonarray.com/wp-content/uploads/2020/06/operational-11-scaled.jpg" alt="Wind Farm Simulation">
+<img align="right" width="500" src="https://londonarray.com/wp-content/uploads/2020/06/operational-11-scaled.jpg" alt="Wind Farm Simulation">
 
 # Hey there! 🌬️👋
 
-I'm Alessio, a clean energy enthusiast and recent graduate from Imperial College London. I hold a Master’s degree in Advanced Mechanical Eningeering where I had the pleasure to develop a pioneering web/based and open-source offshore wind farm modelling software for my thesis project.
+I'm Alessio, a clean energy enthusiast and recent graduate from Imperial College London. I hold a Master’s degree in Advanced Mechanical Eningeering and I had the pleasure to develop a pioneering web-based and open-source offshore wind farm modelling software for my thesis project.
 
 The tool is avaiable here: https://aal22.pythonanywhere.com/
 
 The source code is avaiable upon request :earth_africa:
 
-My thesis presentation is avaiable @[[clickhere]](https://pitch.com/public/f61e33d8-1976-467c-8535-2ff273842ac0)
+My thesis presentation is avaiable @[[Pitch]](https://pitch.com/public/f61e33d8-1976-467c-8535-2ff273842ac0)
+
+A preview of the thesis report is avaiable here @[[Report]](https://drive.google.com/file/d/1Ujdg6isePu68VRCh76Z06_-Kyk9FjrdY/view?usp=drive_link)
 
 ## Master Thesis: "Development of an Evaluation and Prediction Model for Offshore Wind Farms: Performance and Climate Change Impacts"
 :zap: My thesis is a testament to my commitment to expediting renewable energy capacity deployment. Through the website, one can evaluate the competitiveness of an offshore wind farm based simply on the chosen type of turbine and its geographical positioning, which will directly influence the attractiveness of the farm. 
