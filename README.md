@@ -50,7 +50,7 @@ The source code is avaiable upon request :earth_africa:
 
 
 
-## 📬 Le/t's Connect!
+## 📬 Let's Connect!
 
 - **LinkedIn**: [[Alessio Alberto Lodge]](https://www.linkedin.com/in/alessioalbertolodge/)
 
