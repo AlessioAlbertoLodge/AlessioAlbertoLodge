@@ -24,10 +24,12 @@ The source code is avaiable upon request :earth_africa:
 - **Simulation and Modeling**: Developed low-order wake effect models to simulate wind distribution within the farms based on layout, turbine selection and wind resource  
 - **Programming**: Developed on Python, the open-source and data-science-prone language was crucial for the successful outcome of the project. I improved my proficiency by utilising novel libraries for GIS data processing, statistical analysis
 -  **Software Development**: Created the web-based application by exploiting best practice software development structures and pipelines.
-- **Optimization**: Implemented optimization algorithms to enhance the Capacity Factor (CF) of wind farms within the simulation.
-- **Time Series (Weather) Forecasting**: Having to predict the future and coordinate specific wind resources, I learnt about statistical and ML time series forecasting.
 - **Data Analysis**: Conducted extensive data analysis to validate the simulation results, ensuring accuracy and reliability.
 - **API Data Management**: Implemented automatic wind speed data querying, enabling the code to communicate via API to online wind speed databases (ERA5 Reanalysis), based on user inputs, to obtain historical wind speeds
+- **Optimization**: Implemented optimization algorithms to enhance the Capacity Factor (CF) of wind farms within the simulation.
+- **Time Series (Weather) Forecasting**: Having to predict the future and coordinate specific wind resources, I learnt about statistical and ML time series forecasting.
+
+
 
 - ## 🎓 Learning Outcomes
 - **Overview of Worldwide Renewable Energy Targets and Net-Zero Trajectories**: This work was motivated by the global need to transition to clean energy. In the world of IRENA, "Renewables are the backbone of any energy transition to achieve net zero". To showcase the importance of this work, an initial context was provided presenting the current climate pledges, renewable capacity targets and Net Zero Trajectories.
