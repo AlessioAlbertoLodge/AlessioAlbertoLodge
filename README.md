@@ -19,7 +19,12 @@ The source code is avaiable upon request :earth_africa:
 
 :trophy: By leveraging the source code, offshore wind was also proven as a climate change resilient technology. By modelling the UK's Offshore Wind Farm fleet, one of the largest and most advanced worldwide (including the largest offshore wind farm in the world), it was shown how even in the most severe warming scenarios, corresponding to SSP5, AEP of the entire fleet would decrease by only 4%.
 
-## 🎓 Skills Developed
+
+## 🎓 Learning Outcomes
+- **Overview of Worldwide Renewable Energy Targets and Net-Zero Trajectories**: This work was motivated by the global need to transition to clean energy. In the world of IRENA, "Renewables are the backbone of any energy transition to achieve net zero". To showcase the importance of this work, an initial context was provided presenting the current climate pledges, renewable capacity targets and Net Zero Trajectories.
+- **Strong Understanding of Offshore Wind Technology, Policies and Trends**: Naturally, this project brought me to understand the working principles of wind turbines, wind turbine and farm technology, the current offshore wind sector practices and future trends.
+
+## :seedling: Skills Developed
 - **Web Development**: Leveraged HTML and CSS to design a user-friendly interface for the wind farm model website.
 - **Simulation and Modeling**: Developed low-order wake effect models to simulate wind distribution within the farms based on layout, turbine selection and wind resource  
 - **Programming**: Developed on Python, the open-source and data-science-prone language was crucial for the successful outcome of the project. I improved my proficiency by utilising novel libraries for GIS data processing, statistical analysis
@@ -29,34 +34,23 @@ The source code is avaiable upon request :earth_africa:
 - **Optimization**: Implemented optimization algorithms to enhance the Capacity Factor (CF) of wind farms within the simulation.
 - **Time Series (Weather) Forecasting**: Having to predict the future and coordinate specific wind resources, I learnt about statistical and ML time series forecasting.
 
-
-## 🎓 Learning Outcomes
-- **Overview of Worldwide Renewable Energy Targets and Net-Zero Trajectories**: This work was motivated by the global need to transition to clean energy. In the world of IRENA, "Renewables are the backbone of any energy transition to achieve net zero". To showcase the importance of this work, an initial context was provided presenting the current climate pledges, renewable capacity targets and Net Zero Trajectories.
-- **Strong understanding of Offshore Wind Technology, Policies and Trends**: Naturally, this project brought me to understand the working principles of wind turbines, wind turbine and farm technology, the current offshore wind sector practices and future trends.
-
 ## :cupid: Really Important Books
 - **Offshore Wind Farms: Technologies, Design and Operation**: Chong Ng and Li Ran
 - **Wind Energy Explained: Theory, Design and Application**: James F. Manwell, Jon G. McGowan, Anthony L. Rogers
-- **Algorithms for Optimization**:
 
-## :cupid: Great Books
+## :sunny: Climate Change, Energy, Renewables. The ABC for the clean energy transition:
+- **[Updated] Net Zero Roadmap: A Global Pathway to Keep the 1.5 °C Goal in Reach**: [[Link]](https://www.iea.org/reports/net-zero-roadmap-a-global-pathway-to-keep-the-15-0c-goal-in-reach)
+- **IPCC AR6 Synthesis Report: Climate Change 2023**:[[Link]](https://www.ipcc.ch/report/sixth-assessment-report-cycle/)
+- **Renewable energy statistics 2023**: [[Link]](https://www.irena.org/Publications/2023/Jul/Renewable-energy-statistics-2023)
+
+
+## :thumbsup: Great Books
 - **Algorithms for Optimization**: Mykel J. Kochenderfer
 - **Modern Time Series Forecasting with Pythonn**: Manu Joseph 
 
 
-## 🌱 I’m currently exploring
-
-- Advancements in renewable energy technology.
-- Machine learning algorithms for predictive energy modeling.
-
-## 👯 I’m open to collaborate on
-
-- Renewable energy projects, especially those focused on wind energy.
-- Educational tools to spread awareness about sustainable living and renewable resources.
 
 ## 📬 Le/t's Connect!
 
-- **LinkedIn**: [Your LinkedIn profile]
-- **Email**: [Your Email]
+- **LinkedIn**: [[Alessio Alberto Lodge]](https://www.linkedin.com/in/alessioalbertolodge/)
 
-Your stars and forks are appreciated! Together, let's make renewable energy the cornerstone of global power.
