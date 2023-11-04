@@ -8,7 +8,7 @@ The tool is avaiable here: https://aal22.pythonanywhere.com/
 
 The source code is avaiable upon request :earth_africa:
 
-<br>
+My thesis presentation is avaiable @[[clickhere]](https://pitch.com/public/f61e33d8-1976-467c-8535-2ff273842ac0)
 
 ## Master Thesis: "Development of an Evaluation and Prediction Model for Offshore Wind Farms: Performance and Climate Change Impacts"
 :zap: My thesis is a testament to my commitment to expediting renewable energy capacity deployment. Through the website, one can evaluate the competitiveness of an offshore wind farm based simply on the chosen type of turbine and its geographical positioning, which will directly influence the attractiveness of the farm. 
