@@ -1,12 +1,13 @@
-<img align="right" width="300" src="https://londonarray.com/wp-content/uploads/2020/06/operational-11-scaled.jpg" alt="Wind Farm Simulation">
+<img align="right" width="600" src="https://londonarray.com/wp-content/uploads/2020/06/operational-11-scaled.jpg" alt="Wind Farm Simulation">
 
-# Greetings, Wind Energy Enthusiasts! 🌬️👋
+# Hey there! 🌬️👋
 
-I'm [Your Name], a [Your Profession or Field of Expertise], with a profound dedication to renewable energy and sustainable technology. I hold a Master’s degree in [Your Specific Degree] from [Your University], where I combined my love for engineering and the environment to create a pioneering wind farm model website for my thesis project.
+I'm Alessio, a wind energy enthusiast and recent graduate from Imperial College London. I hold a Master’s degree in Advanced Mechanical Eningeering where I had the pleasure to develop a pioneering web/based and open-source offshore wind farm modelling software for my thesis project.
 
-🔬 My Master's thesis: "Virtual Wind Farm: A Computational Model" is a testament to my commitment to advancing renewable energy through technology. It showcases an interactive web-based platform that models wind farm behavior under various environmental conditions.
+## Master Thesis
+🔬 My Master's thesis: "Development of an Evaluation and Prediction Model for Offshore Wind Farms: Performance and Climate Change Impacts" is a testament to my commitment to expediting renewable energy capacity deployment. Through the website, one can evaluate the competitiveness of an offshore wind farm based simply on the chosen type of turbine and its geographical positioning, which will directly influence the attractiveness of the farm. Indeed, annual energy production (AEP), Capacity Factor (CP) and depth of the farm directly influence the economic feasibility, where the former is optimized to achieve a high capacity factor ~30-40%, and the latter is limited typically to 50-60 m. The tool also includes the most recent IPCC climate change models, which include a prediction in the reduction/increase in local wind resources: this allowed to implement a prediction of the reduction in wind speeds, and hence annual energy production (which are different because to the non-linear dependency) due toclimate change forced wind stilling.
 
-## 🎓 Academic Expedition
+## 🎓 Academic Background
 
 ### Master's Degree in [Your Field] - [Your University] ([Location])
 - Developed an intricate wind farm simulation as part of my Master's thesis.
@@ -34,7 +35,7 @@ I'm [Your Name], a [Your Profession or Field of Expertise], with a profound dedi
 - Renewable energy projects, especially those focused on wind energy.
 - Educational tools to spread awareness about sustainable living and renewable resources.
 
-## 📬 Let's Connect!
+## 📬 Le/t's Connect!
 
 - **LinkedIn**: [Your LinkedIn profile]
 - **Email**: [Your Email]
