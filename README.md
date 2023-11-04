@@ -1,4 +1,4 @@
-<img align="right" width="300" src="URL_TO_YOUR_IMAGE" alt="Wind Farm Simulation">
+<img align="right" width="300" src="https://londonarray.com/wp-content/uploads/2020/06/operational-11-scaled.jpg" alt="Wind Farm Simulation">
 
 # Greetings, Wind Energy Enthusiasts! 🌬️👋
 
