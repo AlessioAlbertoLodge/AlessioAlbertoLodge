@@ -34,7 +34,7 @@ A preview of the thesis report is available here @[[Report]](https://drive.googl
 - **Data Analysis**: Conducted extensive data analysis to get a feeling of wind speed data, weather predictions and to validate the simulation results, ensuring accuracy and reliability.
 - **API Data Management**: Implemented automatic wind speed data querying, enabling the code to communicate via API to online wind speed databases (ERA5 Reanalysis), based on user inputs, to obtain historical wind speeds
 - **Optimization**: Implemented optimization algorithms to enhance the Capacity Factor (CF) of wind farms within the simulation.
-- **Time Series (Weather) Forecasting**: Having to predict the future and coordinate specific wind resources, I learned about statistical and ML time series forecasting.
+- **Time Series (Weather) Forecasting**: Having to predict the coordinate specific future wind resources, I learned about statistical and ML time series forecasting.
 
 ## :cupid: Really Important Books
 - **Offshore Wind Farms: Technologies, Design and Operation**: Chong Ng and Li Ran
