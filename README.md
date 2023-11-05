@@ -42,6 +42,7 @@ A preview of the thesis report is available here @[[Report]](https://drive.googl
 
 ## :sunny: Climate Change, Energy, Renewables. The ABC for the clean energy transition:
 - **[Updated] Net Zero Roadmap: A Global Pathway to Keep the 1.5 °C Goal in Reach**: [[Link]](https://www.iea.org/reports/net-zero-roadmap-a-global-pathway-to-keep-the-15-0c-goal-in-reach)
+- **UK FIRES: Absolute Zero Report**: [[Link]](https://ukfires.org/impact/publications/reports/absolute-zero/)
 - **IPCC AR6 Synthesis Report: Climate Change 2023**:[[Link]](https://www.ipcc.ch/report/sixth-assessment-report-cycle/)
 - **Renewable energy statistics 2023**: [[Link]](https://www.irena.org/Publications/2023/Jul/Renewable-energy-statistics-2023)
 
