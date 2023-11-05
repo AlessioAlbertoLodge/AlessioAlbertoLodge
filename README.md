@@ -2,15 +2,15 @@
 
 # Hey there! 🌬️👋
 
-I'm Alessio, a clean energy enthusiast and recent graduate from Imperial College London. I hold a Master’s degree in Advanced Mechanical Eningeering and I had the pleasure to develop a pioneering web-based and open-source offshore wind farm modelling software for my thesis project.
+I'm Alessio, a clean energy enthusiast and recent graduate from Imperial College London. I hold a Master’s degree in Advanced Mechanical Engineering and I had the pleasure to develop a pioneering web-based and open-source offshore wind farm modelling software for my thesis project.
 
-The tool is avaiable here: https://aal22.pythonanywhere.com/
+The tool is available here: https://aal22.pythonanywhere.com/
 
-The source code is avaiable upon request :earth_africa:
+The source code is available upon request :earth_africa:
 
-My thesis presentation is avaiable @[[Pitch]](https://pitch.com/public/f61e33d8-1976-467c-8535-2ff273842ac0)
+My thesis presentation is available @[[Pitch]](https://pitch.com/public/f61e33d8-1976-467c-8535-2ff273842ac0)
 
-A preview of the thesis report is avaiable here @[[Report]](https://drive.google.com/file/d/1Ujdg6isePu68VRCh76Z06_-Kyk9FjrdY/view?usp=sharing)
+A preview of the thesis report is available here @[[Report]](https://drive.google.com/file/d/1Ujdg6isePu68VRCh76Z06_-Kyk9FjrdY/view?usp=sharing)
 
 ## Master Thesis: "Development of an Evaluation and Prediction Model for Offshore Wind Farms: Performance and Climate Change Impacts"
 :zap: My thesis is a testament to my commitment to expediting renewable energy capacity deployment. Through the website, one can evaluate the competitiveness of an offshore wind farm based simply on the chosen type of turbine and its geographical positioning, which will directly influence the attractiveness of the farm. 
@@ -34,7 +34,7 @@ A preview of the thesis report is avaiable here @[[Report]](https://drive.google
 - **Data Analysis**: Conducted extensive data analysis to validate the simulation results, ensuring accuracy and reliability.
 - **API Data Management**: Implemented automatic wind speed data querying, enabling the code to communicate via API to online wind speed databases (ERA5 Reanalysis), based on user inputs, to obtain historical wind speeds
 - **Optimization**: Implemented optimization algorithms to enhance the Capacity Factor (CF) of wind farms within the simulation.
-- **Time Series (Weather) Forecasting**: Having to predict the future and coordinate specific wind resources, I learnt about statistical and ML time series forecasting.
+- **Time Series (Weather) Forecasting**: Having to predict the future and coordinate specific wind resources, I learned about statistical and ML time series forecasting.
 
 ## :cupid: Really Important Books
 - **Offshore Wind Farms: Technologies, Design and Operation**: Chong Ng and Li Ran
@@ -48,7 +48,7 @@ A preview of the thesis report is avaiable here @[[Report]](https://drive.google
 
 ## :thumbsup: Great Books
 - **Algorithms for Optimization**: Mykel J. Kochenderfer
-- **Modern Time Series Forecasting with Pythonn**: Manu Joseph 
+- **Modern Time Series Forecasting with Python**: Manu Joseph 
 
 
 
