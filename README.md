@@ -30,7 +30,7 @@ A preview of the thesis report is available here @[[Report]](https://drive.googl
 - **Web Development**: Leveraged HTML and CSS to design a user-friendly interface for the wind farm model website.
 - **Simulation and Modeling**: Developed low-order wake effect models to simulate wind distribution within the farms based on layout, turbine selection and wind resource  
 - **Programming**: The web-based model was created on Python, its open-source and data-science-prone versatility was crucial for the successful outcome of the project. I improved my proficiency by utilising novel libraries for GIS data processing, time-series forecasting, optimization, statistical analysis, website creation, and interactive plotting
--  **Software Development**: Created the web-based application by exploiting best practice software development structures and pipelines.
+-  **Software Development**: Assembled the tool by exploiting best practice software development structures and pipelines.
 - **Data Analysis**: Conducted extensive data analysis to validate the simulation results, ensuring accuracy and reliability.
 - **API Data Management**: Implemented automatic wind speed data querying, enabling the code to communicate via API to online wind speed databases (ERA5 Reanalysis), based on user inputs, to obtain historical wind speeds
 - **Optimization**: Implemented optimization algorithms to enhance the Capacity Factor (CF) of wind farms within the simulation.
