@@ -8,7 +8,7 @@ The tool is available here: https://aal22.pythonanywhere.com/
 
 The source code is available upon request :earth_africa:
 
-My thesis presentation is available @[[Pitch]](https://pitch.com/public/f61e33d8-1976-467c-8535-2ff273842ac0)
+My thesis presentation is available [[Pitch]](https://pitch.com/public/f61e33d8-1976-467c-8535-2ff273842ac0)
 
 To preview the thesis [[clickhere]](https://drive.google.com/file/d/1Ujdg6isePu68VRCh76Z06_-Kyk9FjrdY/view?usp=sharing)
 
