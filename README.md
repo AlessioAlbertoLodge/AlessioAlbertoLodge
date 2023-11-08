@@ -22,7 +22,7 @@ To preview the thesis [[clickhere]](https://drive.google.com/file/d/1Ujdg6isePu6
 :trophy: By leveraging the source code, offshore wind was also proven as a climate change resilient technology. By modelling the UK's Offshore Wind Farm fleet, one of the largest and most advanced worldwide (including the largest offshore wind farm in the world), it was shown how even in the most severe warming scenarios, corresponding to SSP5, AEP of the entire fleet would decrease by only 4%.
 
 
-## 🎓 Learning Outcomes
+## 🎓 A learning journey
 - **Overview of Worldwide Renewable Energy Targets and Net-Zero Trajectories**: This work was motivated by the global need to transition to clean energy. In the world of IRENA, "Renewables are the backbone of any energy transition to achieve net zero". To showcase the importance of this work, an initial context was provided presenting the current climate pledges, renewable capacity targets and Net Zero Trajectories.
 - **Strong Understanding of Offshore Wind Technology, Policies and Trends**: Naturally, this project brought me to understand the working principles of wind turbines, wind turbine and farm technology, the current offshore wind sector practices and future trends.
 
@@ -46,8 +46,12 @@ To preview the thesis [[clickhere]](https://drive.google.com/file/d/1Ujdg6isePu6
 - **IPCC AR6 Synthesis Report: Climate Change 2023**:[[Link]](https://www.ipcc.ch/report/sixth-assessment-report-cycle/)
 - **Renewable energy statistics 2023**: [[Link]](https://www.irena.org/Publications/2023/Jul/Renewable-energy-statistics-2023)
 
+## :thumbsup: More than just a leisurely read. Facing the reality and what needs to change:
+- **Sustainable Energy – without the hot air**: David MacKay
+- **Five Times Faster: Rethinking the Science, Economics, and Diplomacy of Climate Change**: Simon Sharpe
 
-## :thumbsup: Great Books
+
+## :thumbsup: Great Technical Books:
 - **Algorithms for Optimization**: Mykel J. Kochenderfer
 - **Modern Time Series Forecasting with Python**: Manu Joseph 
 
