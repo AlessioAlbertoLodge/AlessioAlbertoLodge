@@ -23,8 +23,8 @@ To preview the thesis [[clickhere]](https://drive.google.com/file/d/1Ujdg6isePu6
 
 
 ## 🎓 A learning journey
-- **Overview of Worldwide Renewable Energy Targets and Net-Zero Trajectories**: This work was motivated by the global need to transition to clean energy. In the world of IRENA, "Renewables are the backbone of any energy transition to achieve net zero". To showcase the importance of this work, an initial context was provided presenting the current climate pledges, renewable capacity targets and Net Zero Trajectories.
-- **Strong Understanding of Offshore Wind Technology, Policies and Trends**: Naturally, this project brought me to understand the working principles of wind turbines, wind turbine and farm technology, the current offshore wind sector practices and future trends.
+- **The world is warming and we are not on target: Renewable Energy Targets and Net-Zero Trajectories**: This work was motivated by the global need to transition to clean energy. In the world of IRENA, "Renewables are the backbone of any energy transition to achieve net zero". To showcase the importance of this work, an initial context was provided presenting the current climate pledges, renewable capacity targets and Net Zero Trajectories.
+- **Turbines can't fly but they can definitely float: Offshore Wind Technology, Policies and Trends**: Naturally, this project brought me to understand the working principles of wind turbines, wind turbine and farm technology, the current offshore wind sector practices and future trends.
 
 ## :seedling: Skills Developed
 - **Web Development**: Leveraged HTML and CSS to design a user-friendly interface for the wind farm model website.
@@ -41,10 +41,11 @@ To preview the thesis [[clickhere]](https://drive.google.com/file/d/1Ujdg6isePu6
 - **Wind Energy Explained: Theory, Design and Application**: James F. Manwell, Jon G. McGowan, Anthony L. Rogers
 
 ## :sunny: Climate Change, Energy, Renewables. The ABC for the clean energy transition:
-- **[Updated] Net Zero Roadmap: A Global Pathway to Keep the 1.5 °C Goal in Reach**: [[Link]](https://www.iea.org/reports/net-zero-roadmap-a-global-pathway-to-keep-the-15-0c-goal-in-reach)
+- **[Updated] IEA Net Zero Roadmap: A Global Pathway to Keep the 1.5 °C Goal in Reach**: [[Link]](https://www.iea.org/reports/net-zero-roadmap-a-global-pathway-to-keep-the-15-0c-goal-in-reach)
 - **UK FIRES: Absolute Zero Report**: [[Link]](https://ukfires.org/impact/publications/reports/absolute-zero/)
 - **IPCC AR6 Synthesis Report: Climate Change 2023**:[[Link]](https://www.ipcc.ch/report/sixth-assessment-report-cycle/)
 - **Renewable energy statistics 2023**: [[Link]](https://www.irena.org/Publications/2023/Jul/Renewable-energy-statistics-2023)
+- **[Updated] World Energy Outlook 2023**: [[Link]](https://www.iea.org/reports/world-energy-outlook-2023)
 
 ## :thumbsup: More than just a leisurely read. Facing the reality and what needs to change:
 - **Sustainable Energy – without the hot air**: David MacKay
