@@ -47,12 +47,12 @@ To preview the thesis [[clickhere]](https://drive.google.com/file/d/1Ujdg6isePu6
 - **Renewable energy statistics 2023**: [[Link]](https://www.irena.org/Publications/2023/Jul/Renewable-energy-statistics-2023)
 - **[Updated] World Energy Outlook 2023**: [[Link]](https://www.iea.org/reports/world-energy-outlook-2023)
 
-## :thumbsup: More than just a leisurely read. Facing the reality and what needs to change:
+## :books: More than just a leisurely read. Facing the reality and what needs to change:
 - **Sustainable Energy – without the hot air**: David MacKay
 - **Five Times Faster: Rethinking the Science, Economics, and Diplomacy of Climate Change**: Simon Sharpe
 
 
-## :thumbsup: Great Technical Books:
+## :thumbsup: Great Technical Text Books:
 - **Algorithms for Optimization**: Mykel J. Kochenderfer
 - **Modern Time Series Forecasting with Python**: Manu Joseph 
 
