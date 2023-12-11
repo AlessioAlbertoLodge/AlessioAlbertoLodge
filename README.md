@@ -1,7 +1,4 @@
-<div style="text-align: right; width: 500px;">
-    <img width="500" src="https://londonarray.com/wp-content/uploads/2020/06/operational-11-scaled.jpg" alt="Wind Farm Simulation">
-    <div style="text-align: right;">Caption for the Wind Farm Simulation</div>
-</div>
+<img align="right" width="500" src="https://londonarray.com/wp-content/uploads/2020/06/operational-11-scaled.jpg" alt="Wind Farm Simulation">
 
 # Hey there! 🌬️👋
 
