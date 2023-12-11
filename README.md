@@ -1,4 +1,7 @@
-<img align="right" width="500" src="https://londonarray.com/wp-content/uploads/2020/06/operational-11-scaled.jpg" alt="Wind Farm Simulation">
+<figure align="right">
+    <img width="500" src="https://londonarray.com/wp-content/uploads/2020/06/operational-11-scaled.jpg" alt="Wind Farm Simulation">
+    <figcaption>Credits: London Array Operational 11 https://londonarray.com/offshore-image-library/ </figcaption>
+</figure>
 
 # Hey there! 🌬️👋
 
