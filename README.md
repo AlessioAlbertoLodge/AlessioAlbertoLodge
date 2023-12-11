@@ -1,7 +1,4 @@
-<div align="right">
-  <img width="500" src="https://londonarray.com/wp-content/uploads/2020/06/operational-11-scaled.jpg" alt="Wind Farm Simulation">
-  <p>Wind Farm Simulation</p>
-</div>
+<img align="right" width="500" src="https://londonarray.com/wp-content/uploads/2020/06/operational-11-scaled.jpg" alt="London Array https://londonarray.com/offshore-image-library/">
 # Hey there! 🌬️👋
 
 I'm Alessio, a clean energy enthusiast and recent graduate from Imperial College London. I hold a Master’s degree in Advanced Mechanical Engineering and I had the pleasure to develop a pioneering web-based and open-source offshore wind farm modelling software for my thesis project.
