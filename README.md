@@ -12,7 +12,7 @@ My thesis presentation is available [[Pitch]](https://pitch.com/public/f61e33d8-
 
 To preview the thesis [[clickhere]](https://drive.google.com/file/d/1Ujdg6isePu68VRCh76Z06_-Kyk9FjrdY/view?usp=sharing)
 
-Image Credits: London Array "operational-11" - https://londonarray.com/offshore-image-library/
+Image Credits: London Array Limited, "operational-11" - https://londonarray.com/offshore-image-library/
 
 ## Master Thesis: "Development of an Evaluation and Prediction Model for Offshore Wind Farms: Performance and Climate Change Impacts"
 :zap: My thesis is a testament to my commitment to expediting renewable energy capacity deployment. Through the website, one can evaluate the competitiveness of an offshore wind farm based simply on the chosen type of turbine and its geographical positioning, which will directly influence the attractiveness of the farm. 
